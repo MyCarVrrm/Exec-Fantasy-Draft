@@ -3,7 +3,7 @@ Need to pick an Executive team for a Christian Uni Group? Here's your solution. 
 
 Once you run the program, type "start" to begin and instructions will tell you what to do. 
 
-Once it is your pick, type a name to add htem to your team. If you don't know anyone to pick type "List" and a list of the remaining names will pop up for you to choose from. "ListTwo" will give you that same list, but now with their traits. "ListThree" will give you their gender.
+Once it is your pick, type a name to add them to your team. If you don't know anyone to pick type "List" and a list of the remaining names will pop up for you to choose from. "ListTwo" will give you that same list, but now with their traits. "ListThree" will give you their gender.
 
 Its a balancing act! You want a variety of denominations and degrees to make a good exec, but matching traits also get you points.
 
